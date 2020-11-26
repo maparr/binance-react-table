@@ -32,7 +32,7 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],git push -u origin main
+    ]
   },
   "devDependencies": {
     "@types/socket.io": "^2.1.11",
