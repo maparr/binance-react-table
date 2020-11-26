@@ -1,4 +1,4 @@
-import React, {useEffect, useRef, useState} from 'react';
+import React from 'react';
 import useWebSocket, { ReadyState } from 'react-use-websocket';
 
 const SOCKET_WSS = 'wss://stream.binance.com:9443/ws/btcusdt@depth20';
